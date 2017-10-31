@@ -1,0 +1,9 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\wsGiamSatThuMuc\wsGiamSatThuMuc\bin\Debug\wsGiamSatThuMuc.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\wsGiamSatThuMuc\wsGiamSatThuMuc\bin\Debug\wsGiamSatThuMuc.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\wsGiamSatThuMuc\wsGiamSatThuMuc\bin\Debug\wsGiamSatThuMuc.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\wsGiamSatThuMuc\wsGiamSatThuMuc\obj\Debug\wsGiamSatThuMuc.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\wsGiamSatThuMuc\wsGiamSatThuMuc\obj\Debug\wsGiamSatThuMuc.GiamSatThuMuc.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\wsGiamSatThuMuc\wsGiamSatThuMuc\obj\Debug\wsGiamSatThuMuc.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\wsGiamSatThuMuc\wsGiamSatThuMuc\obj\Debug\wsGiamSatThuMuc.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\wsGiamSatThuMuc\wsGiamSatThuMuc\obj\Debug\wsGiamSatThuMuc.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\wsGiamSatThuMuc\wsGiamSatThuMuc\obj\Debug\wsGiamSatThuMuc.ProjectInstaller.resources
