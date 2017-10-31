@@ -1,0 +1,8 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-06\Bai-06\bin\Debug\Bai-06.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-06\Bai-06\bin\Debug\Bai-06.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-06\Bai-06\bin\Debug\Bai-06.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-06\Bai-06\obj\Debug\Bai_06.Form1.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-06\Bai-06\obj\Debug\Bai_06.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-06\Bai-06\obj\Debug\Bai-06.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-06\Bai-06\obj\Debug\Bai-06.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-06\Bai-06\obj\Debug\Bai-06.pdb

@@ -1,0 +1,6 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-09\Client\Client\bin\Debug\Client.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-09\Client\Client\bin\Debug\Client.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-09\Client\Client\bin\Debug\Client.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-09\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-09\Client\Client\obj\Debug\Client.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-09\Client\Client\obj\Debug\Client.pdb

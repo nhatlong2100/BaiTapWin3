@@ -1,0 +1,9 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-04\Bai-04\bin\Debug\Bai-04.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-04\Bai-04\bin\Debug\Bai-04.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-04\Bai-04\bin\Debug\Bai-04.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-04\Bai-04\obj\Debug\Bai-04.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-04\Bai-04\obj\Debug\Bai_04.Form1.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-04\Bai-04\obj\Debug\Bai_04.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-04\Bai-04\obj\Debug\Bai-04.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-04\Bai-04\obj\Debug\Bai-04.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-04\Bai-04\obj\Debug\Bai-04.pdb

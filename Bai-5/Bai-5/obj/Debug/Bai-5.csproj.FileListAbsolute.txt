@@ -1,0 +1,8 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-5\Bai-5\bin\Debug\Bai-5.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-5\Bai-5\bin\Debug\Bai-5.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-5\Bai-5\bin\Debug\Bai-5.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-5\Bai-5\obj\Debug\Bai_5.Form1.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-5\Bai-5\obj\Debug\Bai_5.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-5\Bai-5\obj\Debug\Bai-5.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-5\Bai-5\obj\Debug\Bai-5.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-5\Bai-5\obj\Debug\Bai-5.pdb
