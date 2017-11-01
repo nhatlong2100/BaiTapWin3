@@ -1,0 +1,11 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangServer\bin\Release\TangServer.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangServer\bin\Release\TangServer.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangServer\bin\Release\TangServer.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangServer\bin\Release\ProxyObject.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangServer\bin\Release\ProxyObject.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangServer\obj\Release\TangServer.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangServer\obj\Release\TangServer.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangServer\obj\Release\TangServer.Server.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangServer\obj\Release\TangServer.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangServer\obj\Release\TangServer.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangServer\obj\Release\TangServer.pdb

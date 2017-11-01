@@ -1,0 +1,1 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\bin\Debug\TangService.exe.config

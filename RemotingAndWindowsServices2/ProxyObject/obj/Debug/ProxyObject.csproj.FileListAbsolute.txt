@@ -1,0 +1,4 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\ProxyObject\bin\Debug\ProxyObject.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\ProxyObject\bin\Debug\ProxyObject.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\ProxyObject\obj\Debug\ProxyObject.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\ProxyObject\obj\Debug\ProxyObject.pdb

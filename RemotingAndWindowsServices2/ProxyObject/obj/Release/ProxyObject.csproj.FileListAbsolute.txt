@@ -1,0 +1,5 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\ProxyObject\bin\Release\ProxyObject.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\ProxyObject\bin\Release\ProxyObject.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\ProxyObject\obj\Release\ProxyObject.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\ProxyObject\obj\Release\ProxyObject.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\ProxyObject\obj\Release\ProxyObject.pdb

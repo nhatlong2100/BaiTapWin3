@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProxyObject
 {
-    public class PrimeProxy:MarshalByRefObject
+    public class PrimeProxy : MarshalByRefObject
     {
         //Biến lưu số lần client gọi hàm lấy danh sách số nguyên tố
         private int m_RequestNumber = 0;
@@ -14,7 +14,7 @@ namespace ProxyObject
         private string m_strCurrentClient = "";
         //Biến lưu danh sách client đã connect
         private List<string> m_listClient = new List<string>();
-        
+
         /// <summary>
         /// Kiểm tra số nguyên tố
         /// </summary>
@@ -24,7 +24,10 @@ namespace ProxyObject
         {
             if (k < 2) return false;
             for (int i = 2; i <= Math.Sqrt(k); i++)
-                if (k % 2 == 0) return false;
+                if (k % 2 == 0)
+                    return false;
+                else
+                    return true;
             return true;
         }
 
@@ -49,9 +52,10 @@ namespace ProxyObject
         {
             m_RequestNumber++;
             List<int> lst = new List<int>();
+            lst.Clear();
             for (int i = 2; i <= n; i++)
-                if (isPrime(n))
-                    lst.Add(n);
+                if (isPrime(i))
+                    lst.Add(i);
             return lst;
         }
 

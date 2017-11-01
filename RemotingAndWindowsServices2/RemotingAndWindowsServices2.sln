@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangClient", "TangClient\Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangServer", "TangServer\TangServer.csproj", "{31BA36C6-DBB6-41D5-B637-01EBCC2DE511}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangService", "TangService\TangService.csproj", "{A67B5DB0-50FF-4B60-981E-D3D09CD05C6D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupPrime6606Service", "SetupPrime6606Service\SetupPrime6606Service.vdproj", "{FF5678B6-658C-4DE3-AC94-529EC5C03C47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,12 @@ Global
 		{31BA36C6-DBB6-41D5-B637-01EBCC2DE511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31BA36C6-DBB6-41D5-B637-01EBCC2DE511}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31BA36C6-DBB6-41D5-B637-01EBCC2DE511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A67B5DB0-50FF-4B60-981E-D3D09CD05C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67B5DB0-50FF-4B60-981E-D3D09CD05C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67B5DB0-50FF-4B60-981E-D3D09CD05C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67B5DB0-50FF-4B60-981E-D3D09CD05C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5678B6-658C-4DE3-AC94-529EC5C03C47}.Debug|Any CPU.ActiveCfg = Debug
+		{FF5678B6-658C-4DE3-AC94-529EC5C03C47}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

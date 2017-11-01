@@ -1,0 +1,11 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\bin\Release\TangService.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\bin\Release\TangService.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\bin\Release\TangService.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\bin\Release\ProxyObject.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\bin\Release\ProxyObject.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\obj\Release\TangService.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\obj\Release\TangService.KiemTraSoNgTo.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\obj\Release\TangService.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\obj\Release\TangService.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\obj\Release\TangService.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\RemotingAndWindowsServices2\TangService\obj\Release\TangService.ProjectInstaller.resources
