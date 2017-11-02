@@ -1,0 +1,10 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-21\Remote\bin\Debug\Remote.dll.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-21\Remote\bin\Debug\Remote.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-21\Remote\bin\Debug\Remote.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-21\Remote\bin\Debug\EntityFramework.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-21\Remote\bin\Debug\EntityFramework.SqlServer.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-21\Remote\bin\Debug\EntityFramework.xml
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-21\Remote\bin\Debug\EntityFramework.SqlServer.xml
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-21\Remote\obj\Debug\Remote.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-21\Remote\obj\Debug\Remote.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-21\Remote\obj\Debug\Remote.pdb

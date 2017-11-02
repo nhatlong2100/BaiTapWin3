@@ -1,0 +1,9 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

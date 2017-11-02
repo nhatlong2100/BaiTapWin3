@@ -1,0 +1,11 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\UdpChat\bin\Release\UdpChat.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\UdpChat\bin\Release\UdpChat.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\UdpChat\bin\Release\UdpChat.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\UdpChat\obj\Release\UdpChat.Form1.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\UdpChat\obj\Release\UdpChat.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\UdpChat\obj\Release\UdpChat.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\UdpChat\obj\Release\UdpChat.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\UdpChat\obj\Release\UdpChat.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\UdpChat\bin\Release\myStruct.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\UdpChat\bin\Release\myStruct.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\UdpChat\obj\Release\UdpChat.csprojResolveAssemblyReference.cache

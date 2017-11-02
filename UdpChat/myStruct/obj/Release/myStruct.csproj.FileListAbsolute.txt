@@ -1,0 +1,4 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\myStruct\bin\Release\myStruct.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\myStruct\bin\Release\myStruct.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\myStruct\obj\Release\myStruct.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\myStruct\obj\Release\myStruct.pdb

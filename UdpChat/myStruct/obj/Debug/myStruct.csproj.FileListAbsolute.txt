@@ -1,0 +1,5 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\myStruct\bin\Debug\myStruct.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\myStruct\bin\Debug\myStruct.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\myStruct\obj\Debug\myStruct.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\myStruct\obj\Debug\myStruct.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\UdpChat\myStruct\obj\Debug\myStruct.pdb

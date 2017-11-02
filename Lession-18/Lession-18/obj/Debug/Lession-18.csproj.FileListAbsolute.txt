@@ -1,0 +1,11 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-18\Lession-18\bin\Debug\Lession-18.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-18\Lession-18\bin\Debug\Lession-18.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-18\Lession-18\bin\Debug\Lession-18.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-18\Lession-18\obj\Debug\Lession-18.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-18\Lession-18\obj\Debug\Lession_18.Form1.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-18\Lession-18\obj\Debug\Lession_18.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-18\Lession-18\obj\Debug\Lession-18.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-18\Lession-18\obj\Debug\Lession-18.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-18\Lession-18\obj\Debug\Lession-18.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-18\Lession-18\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-18\Lession-18\obj\Debug\Lession_18.test.resources

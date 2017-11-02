@@ -1,0 +1,8 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\bin\Release\Services.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\bin\Release\Services.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\bin\Release\Services.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\obj\Release\Services.Form1.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\obj\Release\Services.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\obj\Release\Services.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\obj\Release\Services.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\obj\Release\Services.pdb

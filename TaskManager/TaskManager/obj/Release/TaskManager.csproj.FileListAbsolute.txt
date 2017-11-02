@@ -1,0 +1,9 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\TaskManager\TaskManager\bin\Release\TaskManager.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\TaskManager\TaskManager\bin\Release\TaskManager.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\TaskManager\TaskManager\bin\Release\TaskManager.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\TaskManager\TaskManager\obj\Release\TaskManager.Form1.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\TaskManager\TaskManager\obj\Release\TaskManager.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\TaskManager\TaskManager\obj\Release\TaskManager.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\TaskManager\TaskManager\obj\Release\TaskManager.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\TaskManager\TaskManager\obj\Release\TaskManager.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\TaskManager\TaskManager\obj\Release\TaskManager.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-22\Client\bin\Debug\Client.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-22\Client\bin\Debug\Client.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-22\Client\bin\Debug\Client.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-22\Client\bin\Debug\Remote.dll
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-22\Client\bin\Debug\Remote.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-22\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-22\Client\obj\Debug\Client.Form1.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-22\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-22\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-22\Client\obj\Debug\Client.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Bai-22\Client\obj\Debug\Client.pdb

@@ -1,0 +1,8 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-20\Lession-20\bin\Debug\Lession-20.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-20\Lession-20\bin\Debug\Lession-20.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-20\Lession-20\bin\Debug\Lession-20.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-20\Lession-20\obj\Debug\Lession_20.Form1.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-20\Lession-20\obj\Debug\Lession_20.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-20\Lession-20\obj\Debug\Lession-20.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-20\Lession-20\obj\Debug\Lession-20.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Lession-20\Lession-20\obj\Debug\Lession-20.pdb

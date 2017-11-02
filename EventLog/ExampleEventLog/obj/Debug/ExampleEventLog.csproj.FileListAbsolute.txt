@@ -1,0 +1,5 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\ExampleEventLog\bin\Debug\ExampleEventLog.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\ExampleEventLog\bin\Debug\ExampleEventLog.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\ExampleEventLog\bin\Debug\ExampleEventLog.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\ExampleEventLog\obj\Debug\ExampleEventLog.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\EventLog\ExampleEventLog\obj\Debug\ExampleEventLog.pdb

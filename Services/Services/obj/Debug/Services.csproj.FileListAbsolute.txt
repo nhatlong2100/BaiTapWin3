@@ -1,0 +1,9 @@
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\bin\Debug\Services.exe.config
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\bin\Debug\Services.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\bin\Debug\Services.pdb
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\obj\Debug\Services.Form1.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\obj\Debug\Services.Properties.Resources.resources
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\obj\Debug\Services.exe
+E:\Lập trình Windows 3\Bài tập\Thực hành\Services\Services\obj\Debug\Services.pdb
